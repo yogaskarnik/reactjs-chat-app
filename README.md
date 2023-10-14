@@ -1,4 +1,4 @@
-# reactjs-chat-app
+# reactjs-chat-room-app
 
 # Description 
 - This app uses Firebase and React to build a real-time chat room app
